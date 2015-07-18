@@ -1,0 +1,45 @@
+body {
+ background-image: url(fondo.jpg);
+ background-position: bottom right;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+header h1 {
+  text-align: center;
+}
+
+aside h1 {
+  text-align: left;
+}
+
+section h1 {
+  text-align: center;
+}
+
+div {
+  border-style: none;
+  padding: none;
+
+
+}
+
+button {
+  background-color: #a3333d;
+  border: 5px solid #a3333d;
+  border-radius: 5px;
+  position:relative;
+
+
+}
+
+ul{
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 2 %;
+  margin-top: 2%;
+}
